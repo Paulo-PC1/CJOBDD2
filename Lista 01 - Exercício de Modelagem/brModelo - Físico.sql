@@ -1,4 +1,4 @@
-/* Lógico_1: */
+/* LÃ³gico_1: */
 
 CREATE TABLE CLIENTES (
     Cod_Cliente INT PRIMARY KEY,
